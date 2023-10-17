@@ -1,0 +1,9 @@
+x=(input("Enter Your Name: "))
+y=int(input("Enter Your Age: "))
+if y>18:
+    print ("You are of proper age")
+else :
+    print ("You are below age Please be of proper age u dumbass")
+print ("Your id is generated and your name is,",x ,"and your age is,",y)
+
+
